@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
-    <title>Hack</title>
-    <subtitle></subtitle>
+    <title>Hyrink&#39;s Blog</title>
+    <subtitle>pwn &amp; poet</subtitle>
     <icon>http://example.com/images/favicon.ico</icon>
     <link href="http://example.com" />
     <author>
