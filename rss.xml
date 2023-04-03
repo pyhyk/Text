@@ -14,7 +14,7 @@
         <lastBuildDate>Mon, 03 Apr 2023 17:16:15 +0800</lastBuildDate>
         <item>
             <guid isPermalink="true">http://example.com/2023/04/03/pwn/</guid>
-            <title></title>
+            <title>ret2libc &amp; shellcode</title>
             <link>http://example.com/2023/04/03/pwn/</link>
             <pubDate>Mon, 03 Apr 2023 17:16:15 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;pwn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#pwn&#34;&gt;#&lt;/a&gt; pwn&lt;/h1&gt;
